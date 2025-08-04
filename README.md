@@ -9,6 +9,18 @@ An interactive dashboard built with Streamlit that visualizes monthly sales perf
 - 🧩 **Revenue Contribution Pie Chart**
 - 🔍 **Raw Data Viewer and Summary**
 
+## 🗂️ Project Folder Structure
+
+retail_metrics_stream/
+│
+├── app.py                      ← Main Streamlit app
+├── data/
+│   └── sales_data.csv          ← Your provided dataset
+├── plots/
+│   └── plot_utils.py           ← Plotting helper functions
+├── README.md                   ← Project description
+└── requirements.txt            ← All required packages
+
 ## 🚀 How to Run
 
 1. Clone this repository
